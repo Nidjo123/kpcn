@@ -1,0 +1,5 @@
+\babel@toc {croatian}{}
+\beamer@sectionintoc {1}{Problem}{3}{0}{1}
+\beamer@sectionintoc {2}{Model}{6}{0}{2}
+\beamer@sectionintoc {3}{Rezultati}{8}{0}{3}
+\beamer@sectionintoc {4}{Zaklju\IeC {\v c}ak}{14}{0}{4}

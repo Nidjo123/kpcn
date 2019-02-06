@@ -1,0 +1,21 @@
+\BOOKMARK [0][-]{chapter.1}{Uvod}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Monte Carlo integracija}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Uzorkovanje}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Teorijska podloga}{}% 4
+\BOOKMARK [0][-]{chapter.3}{Skup podataka za ucenje}{}% 5
+\BOOKMARK [1][-]{section.3.1}{Iscrtavanje scena}{chapter.3}% 6
+\BOOKMARK [1][-]{section.3.2}{Znacajke izlaznih slika}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.3}{Pretprocesiranje}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.4}{Generiranje ulaza neuronske mre\236e}{chapter.3}% 9
+\BOOKMARK [0][-]{chapter.4}{Model}{}% 10
+\BOOKMARK [1][-]{section.4.1}{Izravna predikcija}{chapter.4}% 11
+\BOOKMARK [1][-]{section.4.2}{Predikcija pomocu jezgre}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.3}{Ucenje modela}{chapter.4}% 13
+\BOOKMARK [0][-]{chapter.5}{Rezultati}{}% 14
+\BOOKMARK [1][-]{section.5.1}{Usporedba modela}{chapter.5}% 15
+\BOOKMARK [1][-]{section.5.2}{Trajanje ucenja modela}{chapter.5}% 16
+\BOOKMARK [1][-]{section.5.3}{Primjeri uklanjanja \235uma}{chapter.5}% 17
+\BOOKMARK [0][-]{chapter.6}{Daljnji rad}{}% 18
+\BOOKMARK [0][-]{chapter.7}{Tehnicki detalji}{}% 19
+\BOOKMARK [1][-]{section.7.1}{Isjecci koda}{chapter.7}% 20
+\BOOKMARK [0][-]{chapter.8}{Literatura}{}% 21

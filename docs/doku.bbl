@@ -1,0 +1,39 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bako et~al.(2017)Bako, Vogels, McWilliams, Meyer, Nov\'ak, Harvill,
+  Sen, DeRose, i Rousselle]{Bako2017KPCN}
+Steve Bako, Thijs Vogels, Brian McWilliams, Mark Meyer, Jan Nov\'ak, Alex
+  Harvill, Pradeep Sen, Tony DeRose, i Fabrice Rousselle.
+\newblock Kernel-predicting convolutional networks for denoising monte carlo
+  renderings.
+\newblock \emph{ACM Transactions on Graphics (Proceedings of SIGGRAPH 2017)},
+  36\penalty0 (4):\penalty0 97:1--97:14, 2017.
+\newblock \doi{10.1145/3072959.3073708}.
+
+\bibitem[Goodfellow et~al.(2016)Goodfellow, Bengio, i
+  Courville]{Goodfellow-et-al-2016}
+Ian Goodfellow, Yoshua Bengio, i Aaron Courville.
+\newblock \emph{Deep Learning}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem[Pharr et~al.(2016)Pharr, Jakob, i Humphreys]{pbrbook}
+Matt Pharr, Wenzel Jakob, i Greg Humphreys.
+\newblock \emph{Physically Based Rendering: From Theory to Implementation}.
+\newblock Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 3rd izdanju,
+  2016.
+\newblock ISBN 0128006455, 9780128006450.
+\newblock URL \url{http://www.pbr-book.org/}.
+
+\bibitem[Vogels(2016)]{vogels2016thesis}
+Thijs Vogels.
+\newblock {Kernel-predicting Convolutional Neural Networks for Denoising Monte
+  Carlo Renderings}.
+\newblock Magistarski rad, {ETH Z\"urich}, Switzerland, 2016.
+
+\end{thebibliography}
